@@ -1,0 +1,636 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Interview\\Timer\\Webhook.Based.Timer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAFCE4-4C58-4E16-B210-8E17538B77E9}|..\\Webhook.Based.Timer.Test\\Webhook.Based.Timer.Test.csproj|d:\\interview\\timer\\webhook.based.timer.test\\webhook.based.timer.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAFCE4-4C58-4E16-B210-8E17538B77E9}|..\\Webhook.Based.Timer.Test\\Webhook.Based.Timer.Test.csproj|d:\\interview\\timer\\webhook.based.timer.test\\unittests\\cosmosdb\\cosmosdbserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAFCE4-4C58-4E16-B210-8E17538B77E9}|..\\Webhook.Based.Timer.Test\\Webhook.Based.Timer.Test.csproj|d:\\interview\\timer\\webhook.based.timer.test\\data\\testcosmosdbprovisionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAFCE4-4C58-4E16-B210-8E17538B77E9}|..\\Webhook.Based.Timer.Test\\Webhook.Based.Timer.Test.csproj|d:\\interview\\timer\\webhook.based.timer.test\\data\\testcosmosdbconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6441B652-32C5-42C2-9A71-9200EDDBD288}|..\\NoSqlDataAccess.Common\\NoSqlDataAccess.Common.csproj|d:\\interview\\timer\\nosqldataaccess.common\\provisioning\\basecosmosdbprovisioningconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76809CF1-D5E3-4C37-86DA-912C8559C8C8}|..\\NoSqlDataAccess.CosmosDB\\NoSqlDataAccess.CosmosDB.csproj|d:\\interview\\timer\\nosqldataaccess.cosmosdb\\nosqldataaccess.cosmosdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\webhook.based.timer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:webhook.based.timer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76809CF1-D5E3-4C37-86DA-912C8559C8C8}|..\\NoSqlDataAccess.CosmosDB\\NoSqlDataAccess.CosmosDB.csproj|d:\\interview\\timer\\nosqldataaccess.cosmosdb\\dbservice\\icosmosdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAFCE4-4C58-4E16-B210-8E17538B77E9}|..\\Webhook.Based.Timer.Test\\Webhook.Based.Timer.Test.csproj|d:\\interview\\timer\\webhook.based.timer.test\\data\\schema\\baseschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAFCE4-4C58-4E16-B210-8E17538B77E9}|..\\Webhook.Based.Timer.Test\\Webhook.Based.Timer.Test.csproj|d:\\interview\\timer\\webhook.based.timer.test\\data\\schema\\vaultschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAFCE4-4C58-4E16-B210-8E17538B77E9}|..\\Webhook.Based.Timer.Test\\Webhook.Based.Timer.Test.csproj|d:\\interview\\timer\\webhook.based.timer.test\\unittests\\cosmosdb\\cosmosdbadminserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76809CF1-D5E3-4C37-86DA-912C8559C8C8}|..\\NoSqlDataAccess.CosmosDB\\NoSqlDataAccess.CosmosDB.csproj|d:\\interview\\timer\\nosqldataaccess.cosmosdb\\dbservice\\cosmosdbservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76809CF1-D5E3-4C37-86DA-912C8559C8C8}|..\\NoSqlDataAccess.CosmosDB\\NoSqlDataAccess.CosmosDB.csproj|d:\\interview\\timer\\nosqldataaccess.cosmosdb\\dbservice\\cosmosdbadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76809CF1-D5E3-4C37-86DA-912C8559C8C8}|..\\NoSqlDataAccess.CosmosDB\\NoSqlDataAccess.CosmosDB.csproj|d:\\interview\\timer\\nosqldataaccess.cosmosdb\\dbservice\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76809CF1-D5E3-4C37-86DA-912C8559C8C8}|..\\NoSqlDataAccess.CosmosDB\\NoSqlDataAccess.CosmosDB.csproj|d:\\interview\\timer\\nosqldataaccess.cosmosdb\\dbservice\\abstractcosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\controllers\\timercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:controllers\\timercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\model\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:model\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\service\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:service\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6441B652-32C5-42C2-9A71-9200EDDBD288}|..\\NoSqlDataAccess.Common\\NoSqlDataAccess.Common.csproj|d:\\interview\\timer\\nosqldataaccess.common\\nosqldataaccess.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\repository\\timerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:repository\\timerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Interview\\Timer\\Webhook.Based.Timer\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Interview\\Timer\\Webhook.Based.Timer\\obj\\Debug\\net8.0\\Webhook.Based.Timer.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\Webhook.Based.Timer.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Interview\\Timer\\webhook-based-timer\\obj\\Debug\\net8.0\\Webhook-Based-Timer.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\service\\timerbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:service\\timerbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\service\\webhookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:service\\webhookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\repository\\itimerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:repository\\itimerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\model\\timerstatushelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:model\\timerstatushelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\service\\itimerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:service\\itimerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\model\\timerinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:model\\timerinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\repository\\azure\\cosmosdb\\schema\\timerschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:repository\\azure\\cosmosdb\\schema\\timerschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\repository\\azure\\cosmosdb\\cosmosdbprovisioningconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:repository\\azure\\cosmosdb\\cosmosdbprovisioningconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\repository\\azure\\cosmosdb\\schema\\containernames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:repository\\azure\\cosmosdb\\schema\\containernames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\repository\\azure\\cosmosdb\\cosmosdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:repository\\azure\\cosmosdb\\cosmosdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\model\\taskstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:model\\taskstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\model\\iconfigprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:model\\iconfigprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|d:\\interview\\timer\\webhook.based.timer\\repository\\azure\\cosmosdb\\schema\\baseschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E0969D-6DF4-4D5F-B02B-23DCCAE6FB58}|Webhook.Based.Timer.csproj|solutionrelative:repository\\azure\\cosmosdb\\schema\\baseschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CosmosDbServiceUnitTests.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\UnitTests\\CosmosDB\\CosmosDbServiceUnitTests.cs",
+              "RelativeDocumentMoniker": "..\\Webhook.Based.Timer.Test\\UnitTests\\CosmosDB\\CosmosDbServiceUnitTests.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\UnitTests\\CosmosDB\\CosmosDbServiceUnitTests.cs",
+              "RelativeToolTip": "..\\Webhook.Based.Timer.Test\\UnitTests\\CosmosDB\\CosmosDbServiceUnitTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:39:37.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseCosmosDbProvisioningConfiguration.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\NoSqlDataAccess.Common\\Provisioning\\BaseCosmosDbProvisioningConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\NoSqlDataAccess.Common\\Provisioning\\BaseCosmosDbProvisioningConfiguration.cs",
+              "ToolTip": "D:\\Interview\\Timer\\NoSqlDataAccess.Common\\Provisioning\\BaseCosmosDbProvisioningConfiguration.cs",
+              "RelativeToolTip": "..\\NoSqlDataAccess.Common\\Provisioning\\BaseCosmosDbProvisioningConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:37:39.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestCosmosDbConstants.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\Data\\TestCosmosDbConstants.cs",
+              "RelativeDocumentMoniker": "..\\Webhook.Based.Timer.Test\\Data\\TestCosmosDbConstants.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\Data\\TestCosmosDbConstants.cs",
+              "RelativeToolTip": "..\\Webhook.Based.Timer.Test\\Data\\TestCosmosDbConstants.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:17:17.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Webhook.Based.Timer.Test.csproj",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\Webhook.Based.Timer.Test.csproj",
+              "RelativeDocumentMoniker": "..\\Webhook.Based.Timer.Test\\Webhook.Based.Timer.Test.csproj",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\Webhook.Based.Timer.Test.csproj",
+              "RelativeToolTip": "..\\Webhook.Based.Timer.Test\\Webhook.Based.Timer.Test.csproj",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T17:58:39.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoSqlDataAccess.CosmosDB.csproj",
+              "DocumentMoniker": "D:\\Interview\\Timer\\NoSqlDataAccess.CosmosDB\\NoSqlDataAccess.CosmosDB.csproj",
+              "RelativeDocumentMoniker": "..\\NoSqlDataAccess.CosmosDB\\NoSqlDataAccess.CosmosDB.csproj",
+              "ToolTip": "D:\\Interview\\Timer\\NoSqlDataAccess.CosmosDB\\NoSqlDataAccess.CosmosDB.csproj",
+              "RelativeToolTip": "..\\NoSqlDataAccess.CosmosDB\\NoSqlDataAccess.CosmosDB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T17:55:22.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestCosmosDbProvisionConfig.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\Data\\TestCosmosDbProvisionConfig.cs",
+              "RelativeDocumentMoniker": "..\\Webhook.Based.Timer.Test\\Data\\TestCosmosDbProvisionConfig.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\Data\\TestCosmosDbProvisionConfig.cs",
+              "RelativeToolTip": "..\\Webhook.Based.Timer.Test\\Data\\TestCosmosDbProvisionConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:17:18.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Webhook.Based.Timer.csproj",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Webhook.Based.Timer.csproj",
+              "RelativeDocumentMoniker": "Webhook.Based.Timer.csproj",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Webhook.Based.Timer.csproj",
+              "RelativeToolTip": "Webhook.Based.Timer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T17:53:04.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICosmosDbConnection.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\NoSqlDataAccess.CosmosDB\\DBService\\ICosmosDbConnection.cs",
+              "RelativeDocumentMoniker": "..\\NoSqlDataAccess.CosmosDB\\DBService\\ICosmosDbConnection.cs",
+              "ToolTip": "D:\\Interview\\Timer\\NoSqlDataAccess.CosmosDB\\DBService\\ICosmosDbConnection.cs",
+              "RelativeToolTip": "..\\NoSqlDataAccess.CosmosDB\\DBService\\ICosmosDbConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:36:28.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VaultSchema.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\Data\\Schema\\VaultSchema.cs",
+              "RelativeDocumentMoniker": "..\\Webhook.Based.Timer.Test\\Data\\Schema\\VaultSchema.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\Data\\Schema\\VaultSchema.cs",
+              "RelativeToolTip": "..\\Webhook.Based.Timer.Test\\Data\\Schema\\VaultSchema.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:17:02.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseSchema.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\Data\\Schema\\BaseSchema.cs",
+              "RelativeDocumentMoniker": "..\\Webhook.Based.Timer.Test\\Data\\Schema\\BaseSchema.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\Data\\Schema\\BaseSchema.cs",
+              "RelativeToolTip": "..\\Webhook.Based.Timer.Test\\Data\\Schema\\BaseSchema.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:17:09.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T18:00:07.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CosmosDbAdminServiceUnitTests.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\UnitTests\\CosmosDB\\CosmosDbAdminServiceUnitTests.cs",
+              "RelativeDocumentMoniker": "..\\Webhook.Based.Timer.Test\\UnitTests\\CosmosDB\\CosmosDbAdminServiceUnitTests.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer.Test\\UnitTests\\CosmosDB\\CosmosDbAdminServiceUnitTests.cs",
+              "RelativeToolTip": "..\\Webhook.Based.Timer.Test\\UnitTests\\CosmosDB\\CosmosDbAdminServiceUnitTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:15:53.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CosmosDbAdminService.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\NoSqlDataAccess.CosmosDB\\DBService\\CosmosDbAdminService.cs",
+              "RelativeDocumentMoniker": "..\\NoSqlDataAccess.CosmosDB\\DBService\\CosmosDbAdminService.cs",
+              "ToolTip": "D:\\Interview\\Timer\\NoSqlDataAccess.CosmosDB\\DBService\\CosmosDbAdminService.cs",
+              "RelativeToolTip": "..\\NoSqlDataAccess.CosmosDB\\DBService\\CosmosDbAdminService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:14:39.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CosmosDbServiceFactory.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\NoSqlDataAccess.CosmosDB\\DBService\\CosmosDbServiceFactory.cs",
+              "RelativeDocumentMoniker": "..\\NoSqlDataAccess.CosmosDB\\DBService\\CosmosDbServiceFactory.cs",
+              "ToolTip": "D:\\Interview\\Timer\\NoSqlDataAccess.CosmosDB\\DBService\\CosmosDbServiceFactory.cs",
+              "RelativeToolTip": "..\\NoSqlDataAccess.CosmosDB\\DBService\\CosmosDbServiceFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:14:34.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CosmosDbService.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\NoSqlDataAccess.CosmosDB\\DBService\\CosmosDbService.cs",
+              "RelativeDocumentMoniker": "..\\NoSqlDataAccess.CosmosDB\\DBService\\CosmosDbService.cs",
+              "ToolTip": "D:\\Interview\\Timer\\NoSqlDataAccess.CosmosDB\\DBService\\CosmosDbService.cs",
+              "RelativeToolTip": "..\\NoSqlDataAccess.CosmosDB\\DBService\\CosmosDbService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:14:24.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AbstractCosmosDbService.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\NoSqlDataAccess.CosmosDB\\DBService\\AbstractCosmosDbService.cs",
+              "RelativeDocumentMoniker": "..\\NoSqlDataAccess.CosmosDB\\DBService\\AbstractCosmosDbService.cs",
+              "ToolTip": "D:\\Interview\\Timer\\NoSqlDataAccess.CosmosDB\\DBService\\AbstractCosmosDbService.cs",
+              "RelativeToolTip": "..\\NoSqlDataAccess.CosmosDB\\DBService\\AbstractCosmosDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:14:09.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TimerController.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Controllers\\TimerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TimerController.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Controllers\\TimerController.cs",
+              "RelativeToolTip": "Controllers\\TimerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:21:29.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:49:47.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NoSqlDataAccess.Common.csproj",
+              "DocumentMoniker": "D:\\Interview\\Timer\\NoSqlDataAccess.Common\\NoSqlDataAccess.Common.csproj",
+              "RelativeDocumentMoniker": "..\\NoSqlDataAccess.Common\\NoSqlDataAccess.Common.csproj",
+              "ToolTip": "D:\\Interview\\Timer\\NoSqlDataAccess.Common\\NoSqlDataAccess.Common.csproj",
+              "RelativeToolTip": "..\\NoSqlDataAccess.Common\\NoSqlDataAccess.Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T17:59:40.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TimerService.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Service\\TimerService.cs",
+              "RelativeDocumentMoniker": "Service\\TimerService.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Service\\TimerService.cs",
+              "RelativeToolTip": "Service\\TimerService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwE4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:13:19.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateTaskRequest.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Model\\CreateTaskRequest.cs",
+              "RelativeDocumentMoniker": "Model\\CreateTaskRequest.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Model\\CreateTaskRequest.cs",
+              "RelativeToolTip": "Model\\CreateTaskRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:22:22.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T18:01:01.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TimerRepository.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\TimerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TimerRepository.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\TimerRepository.cs",
+              "RelativeToolTip": "Repository\\TimerRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:48:49.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TimerBackgroundService.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Service\\TimerBackgroundService.cs",
+              "RelativeDocumentMoniker": "Service\\TimerBackgroundService.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Service\\TimerBackgroundService.cs",
+              "RelativeToolTip": "Service\\TimerBackgroundService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vxQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:29:36.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WebhookService.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Service\\WebhookService.cs",
+              "RelativeDocumentMoniker": "Service\\WebhookService.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Service\\WebhookService.cs",
+              "RelativeToolTip": "Service\\WebhookService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:37:42.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITimerRepository.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\ITimerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ITimerRepository.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\ITimerRepository.cs",
+              "RelativeToolTip": "Repository\\ITimerRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:53:07.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TimerStatusHelpers.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Model\\TimerStatusHelpers.cs",
+              "RelativeDocumentMoniker": "Model\\TimerStatusHelpers.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Model\\TimerStatusHelpers.cs",
+              "RelativeToolTip": "Model\\TimerStatusHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:34:02.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ITimerService.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Service\\ITimerService.cs",
+              "RelativeDocumentMoniker": "Service\\ITimerService.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Service\\ITimerService.cs",
+              "RelativeToolTip": "Service\\ITimerService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvx0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:56:23.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Webhook.Based.Timer.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\obj\\Debug\\net8.0\\Webhook.Based.Timer.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Webhook.Based.Timer.AssemblyInfo.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\obj\\Debug\\net8.0\\Webhook.Based.Timer.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\Webhook.Based.Timer.AssemblyInfo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:09:27.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:03:11.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Webhook-Based-Timer.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\webhook-based-timer\\obj\\Debug\\net8.0\\Webhook-Based-Timer.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\webhook-based-timer\\obj\\Debug\\net8.0\\Webhook-Based-Timer.AssemblyInfo.cs",
+              "ToolTip": "D:\\Interview\\Timer\\webhook-based-timer\\obj\\Debug\\net8.0\\Webhook-Based-Timer.AssemblyInfo.cs",
+              "RelativeToolTip": "..\\webhook-based-timer\\obj\\Debug\\net8.0\\Webhook-Based-Timer.AssemblyInfo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:03:16.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TimerInstance.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Model\\TimerInstance.cs",
+              "RelativeDocumentMoniker": "Model\\TimerInstance.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Model\\TimerInstance.cs",
+              "RelativeToolTip": "Model\\TimerInstance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:24:54.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TimerSchema.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\Azure\\CosmosDB\\Schema\\TimerSchema.cs",
+              "RelativeDocumentMoniker": "Repository\\Azure\\CosmosDB\\Schema\\TimerSchema.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\Azure\\CosmosDB\\Schema\\TimerSchema.cs",
+              "RelativeToolTip": "Repository\\Azure\\CosmosDB\\Schema\\TimerSchema.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:53:22.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CosmosDbProvisioningConfiguration.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\Azure\\CosmosDB\\CosmosDbProvisioningConfiguration.cs",
+              "RelativeDocumentMoniker": "Repository\\Azure\\CosmosDB\\CosmosDbProvisioningConfiguration.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\Azure\\CosmosDB\\CosmosDbProvisioningConfiguration.cs",
+              "RelativeToolTip": "Repository\\Azure\\CosmosDB\\CosmosDbProvisioningConfiguration.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:51:22.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ContainerNames.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\Azure\\CosmosDB\\Schema\\ContainerNames.cs",
+              "RelativeDocumentMoniker": "Repository\\Azure\\CosmosDB\\Schema\\ContainerNames.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\Azure\\CosmosDB\\Schema\\ContainerNames.cs",
+              "RelativeToolTip": "Repository\\Azure\\CosmosDB\\Schema\\ContainerNames.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:52:09.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CosmosDbConnection.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\Azure\\CosmosDB\\CosmosDbConnection.cs",
+              "RelativeDocumentMoniker": "Repository\\Azure\\CosmosDB\\CosmosDbConnection.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\Azure\\CosmosDB\\CosmosDbConnection.cs",
+              "RelativeToolTip": "Repository\\Azure\\CosmosDB\\CosmosDbConnection.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAArwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:36:27.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TaskStatusResponse.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Model\\TaskStatusResponse.cs",
+              "RelativeDocumentMoniker": "Model\\TaskStatusResponse.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Model\\TaskStatusResponse.cs",
+              "RelativeToolTip": "Model\\TaskStatusResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:22:48.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IConfigProvider.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Model\\IConfigProvider.cs",
+              "RelativeDocumentMoniker": "Model\\IConfigProvider.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Model\\IConfigProvider.cs",
+              "RelativeToolTip": "Model\\IConfigProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:47:22.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseSchema.cs",
+              "DocumentMoniker": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\Azure\\CosmosDB\\Schema\\BaseSchema.cs",
+              "RelativeDocumentMoniker": "Repository\\Azure\\CosmosDB\\Schema\\BaseSchema.cs",
+              "ToolTip": "D:\\Interview\\Timer\\Webhook.Based.Timer\\Repository\\Azure\\CosmosDB\\Schema\\BaseSchema.cs",
+              "RelativeToolTip": "Repository\\Azure\\CosmosDB\\Schema\\BaseSchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:56:13.119Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
